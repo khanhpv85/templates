@@ -1,0 +1,149 @@
+/**/
+.invite-friend-page .event-tabs .guide-box .seemore-info a:after { font-family: "360game" !important; font-style: normal !important; font-weight: normal !important; font-variant: normal !important; text-transform: none !important; speak: none; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+.invite-friend-page .event-tabs .invite-info-detail .list-table { display: table; width: 100%; border: 1px solid #e5e5e5; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table li { display: table-row; width: 100%; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table li:last-child > div { border-bottom: 0; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table li > div { display: table-cell; padding: 18px 10px; vertical-align: middle; text-align: center; border-right: 1px solid #e5e5e5; border-bottom: 1px dotted #eaeaea; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table li > div:last-child { border-right: 0; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table li.head-title { background: #e5e5e5; color: #1d6d8f; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table li.head-title > div { padding: 14px 10px; border-right-color: #ccc; border-bottom: 0; }
+
+.award-list-pop .list { display: table; width: 100%; }
+.award-list-pop .list li { display: table-row; background: #f2f2f2; width: 100%; }
+.award-list-pop .list li > div { display: table-cell; padding: 12px 10px; vertical-align: middle; }
+.award-list-pop .list li.head-title { background: #fff; color: #000; }
+.award-list-pop .list li.head-title > div { font-weight: bold; border-right-color: #ccc; border-bottom: 1px solid #000; }
+.award-list-pop .list li:nth-child(even) { background: #fff; }
+
+.invite-friend-page .if-btn a, .invite-friend-page .if-btn a span { height: 77px; }
+.invite-friend-page .if-btn a { display: inline-block; background-position: 0 0; }
+.invite-friend-page .if-btn a span { display: block; text-indent: -9999px; animation: _opacityb 1.2s ease-out 0.1s both infinite; -moz-animation: _opacityb 1.2s ease-out 0.1s both infinite; -webkit-animation: _opacityb 1.2s ease-out 0.1s both infinite; }
+.invite-friend-page .if-btn a:hover span { background-position: 0 0 !important; animation: none; -moz-animation: none; -webkit-animation: none; }
+.invite-friend-page .tagline { margin: 45px 0 30px; text-align: center; }
+.invite-friend-page .head { height: 95px; margin: 0 0 15px; }
+.invite-friend-page .head .container { background: url(../images/invite_game/bn_1170x95.jpg) center top no-repeat; height: 150px; }
+.invite-friend-page .event-tabs .container { background: #fff; }
+.invite-friend-page .event-tabs .tabs-block { margin-bottom: 15px; text-align: center; }
+.invite-friend-page .event-tabs .tabs-block .tab-menu { display: inline-block; height: auto; border: 0; }
+.invite-friend-page .event-tabs .tabs-block .tab-menu li { height: auto; margin: 0; text-align: center; }
+.invite-friend-page .event-tabs .tabs-block .tab-menu li:after { display: none; }
+.invite-friend-page .event-tabs .tabs-block .tab-menu li a { min-width: 250px; height: 34px; line-height: 31px; padding: 0 15px; color: #03b127; font-size: 15px; text-transform: initial; border: 1px solid #03b127; border-right: 0; }
+.invite-friend-page .event-tabs .tabs-block .tab-menu li:first-child a { border-radius: 3px 0 0 3px; -moz-border-radius: 3px 0 0 3px; -webkit-border-radius: 3px 0 0 3px; }
+.invite-friend-page .event-tabs .tabs-block .tab-menu li:last-child a { border-right: 1px solid #03b127; border-radius: 0 3px 3px 0; -moz-border-radius: 0 3px 3px 0; -webkit-border-radius: 0 3px 3px 0; }
+.invite-friend-page .event-tabs .tabs-block .tab-menu li.active { border-bottom-color: #fff; }
+.invite-friend-page .event-tabs .tabs-block .tab-menu li.active a { background: #03b127; color: #fff; }
+.invite-friend-page .event-tabs .tabs-block .tab-content { text-align: left; }
+.invite-friend-page .event-tabs .tabs-block .tab-content > li { background: #fff; }
+.invite-friend-page .event-tabs .guide-box { padding: 30px 70px 70px; text-align: center; }
+.invite-friend-page .event-tabs .guide-box .invite-info-detail { padding: 0; }
+.invite-friend-page .event-tabs .guide-box .invite-info-detail .title { margin-top: 40px; }
+.invite-friend-page .event-tabs .guide-box strong { font-weight: bold; }
+.invite-friend-page .event-tabs .guide-box .top-txt { line-height: 26px; margin-bottom: 25px; font-size: 17px; text-transform: uppercase; }
+.invite-friend-page .event-tabs .guide-box .invite-btn { margin-bottom: 30px; }
+.invite-friend-page .event-tabs .guide-box .invite-btn a, .invite-friend-page .event-tabs .guide-box .invite-btn a span { background: url(../images/invite_game/invite_btn.png) no-repeat; }
+.invite-friend-page .event-tabs .guide-box .invite-btn a { width: 298px; }
+.invite-friend-page .event-tabs .guide-box .invite-btn a span { background-position: -298px 0; }
+.invite-friend-page .event-tabs .guide-box .seemore-info { margin-bottom: 15px; }
+.invite-friend-page .event-tabs .guide-box .seemore-info a { position: relative; display: inline-block; height: 35px; color: #03b127; font-size: 15px; }
+.invite-friend-page .event-tabs .guide-box .seemore-info a:after { position: absolute; top: 22px; left: 50%; margin-left: -5px; content: "\6b"; color: #03b127; font-size: 11px; transform: rotate(90deg); -webkit-transform: rotate(90deg); -moz-transform: rotate(90deg); -ms-transform: rotate(90deg); -o-transform: rotate(90deg); }
+.invite-friend-page .event-tabs .guide-box .seemore-info a.active:after { transform: rotate(-90deg); -webkit-transform: rotate(-90deg); -moz-transform: rotate(-90deg); -ms-transform: rotate(-90deg); -o-transform: rotate(-90deg); }
+.invite-friend-page .event-tabs .guide-box .guide-detail { display: none; background: #f5f5f5; line-height: 22px; padding: 25px 30px; text-align: left; font-size: 15px; }
+.invite-friend-page .event-tabs .guide-box .guide-detail p { margin-bottom: 5px; }
+.invite-friend-page .event-tabs .guide-box .guide-detail ol { list-style: decimal; }
+.invite-friend-page .event-tabs .guide-box .guide-detail ol li { margin-left: 30px; }
+.invite-friend-page .event-tabs .guide-box .guide-detail ul { list-style: circle; }
+.invite-friend-page .event-tabs .guide-box .guide-detail ul li { margin-left: 30px; }
+.invite-friend-page .event-tabs .invite-info-detail { padding: 30px 70px 70px; text-align: center; }
+.invite-friend-page .event-tabs .invite-info-detail .top-txt, .invite-friend-page .event-tabs .invite-info-detail .title { line-height: 26px; margin-bottom: 25px; font-size: 17px; text-align: center; text-transform: uppercase; }
+.invite-friend-page .event-tabs .invite-info-detail .title { margin-bottom: 18px; }
+.invite-friend-page .event-tabs .invite-info-detail .login-btn { margin-bottom: 30px; }
+.invite-friend-page .event-tabs .invite-info-detail .login-btn a, .invite-friend-page .event-tabs .invite-info-detail .login-btn a span { background: url(../images/invite_game/login_btn.png) no-repeat; }
+.invite-friend-page .event-tabs .invite-info-detail .login-btn a { width: 236px; }
+.invite-friend-page .event-tabs .invite-info-detail .login-btn a span { background-position: -236px 0; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box { display: inline-block; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .frm-row { margin-bottom: 20px; font-size: 15px; text-align: left; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .frm-row .lb { float: left; width: 130px; line-height: 38px; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .frm-row .uiselector { float: none; width: 250px; margin-left: 130px; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .frm-row .uiselector .select-click { padding-left: 15px; font-size: 17px; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .frm-row .uiselector.open { z-index: 99; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .frm-row .txt-frm { position: relative; min-width: 250px; max-width: 550px; min-height: 40px; line-height: 20px; margin-left: 130px; padding: 8px 15px; font-size: 17px; word-wrap: break-word; border: 1px dashed #bbb; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .ok-btn a { display: inline-block; background: url(../images/invite_game/btn_bg.png) no-repeat; width: 120px; height: 45px; line-height: 43px; color: #7c2334; font-size: 22px; font-weight: bold; border: 1px solid rgba(105, 79, 88, 0.38); border-radius: 7px; -moz-border-radius: 7px; -webkit-border-radius: 7px; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .ok-btn a:hover { background-position: 0 -47px; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .social-ico { margin-bottom: 40px; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .social-ico .sbox { display: inline-block; padding: 20px 45px; border: 1px dashed #bbb; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .social-ico .share, .invite-friend-page .event-tabs .invite-info-detail .frm-box .social-ico .fb { background: url(../images/invite_game/social_ico_1.1.png) no-repeat; float: left; width: 50px; height: 50px; margin: 0 10px; text-indent: -9999px; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .social-ico .share { background-position: 0 0; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .social-ico .share:hover { background-position: 0 -60px; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .social-ico .fb { background-position: -70px 0; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .social-ico .fb:hover { background-position: -70px -60px; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .see-list-btn { margin-bottom: 30px; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .see-list-btn a, .invite-friend-page .event-tabs .invite-info-detail .frm-box .see-list-btn a span { background: url(../images/invite_game/see_list_btn.png) no-repeat; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .see-list-btn a { width: 326px; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box .see-list-btn a span { background-position: -326px 0; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box.no-lmargin .frm-row .txt-frm, .invite-friend-page .event-tabs .invite-info-detail .frm-box.no-lmargin .frm-row .uiselector { margin-left: 0; }
+.invite-friend-page .event-tabs .invite-info-detail .frm-box.no-lmargin .social-ico { display: inline-block; padding-left: 0; }
+.invite-friend-page .event-tabs .invite-info-detail .gold-sum { display: inline-block; background: #f39700; width: 250px; height: 60px; line-height: 60px; margin-bottom: 70px; color: #fff; font-size: 35px; font-weight: 500; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; }
+.invite-friend-page .event-tabs .invite-info-detail .list-choosing { padding: 6px 0 10px; text-align: center; }
+.invite-friend-page .event-tabs .invite-info-detail .list-choosing input[type="radio"] + label span.radio { width: 15px; height: 15px; border: 2px solid #e5e5e5; }
+.invite-friend-page .event-tabs .invite-info-detail .list-choosing input[type="radio"]:checked + label span.radio:before { top: 2px; left: 2px; background: #f4811f; width: 7px; height: 7px; }
+.invite-friend-page .event-tabs .invite-info-detail .list-choosing ul { display: inline-block; max-width: 670px; }
+.invite-friend-page .event-tabs .invite-info-detail .list-choosing ul li { float: left; margin: 0 30px; font-size: 15px; }
+.invite-friend-page .event-tabs .invite-info-detail .list-choosing ul li input[type="radio"] + label span.radio { margin: 0 4px 1px 0; }
+.invite-friend-page .event-tabs .invite-info-detail .notify { position: relative; display: inline-block; min-width: 384px; line-height: 26px; padding-left: 42px; margin-bottom: 55px; color: #666; text-align: left; }
+.invite-friend-page .event-tabs .invite-info-detail .notify:before { content: ""; position: absolute; top: 0; left: 0; background: url(../images/invite_game/notify_ico.png) no-repeat; float: left; width: 37px; height: 26px; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table { width: 600px; margin: 0 auto; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table .recharge, .invite-friend-page .event-tabs .invite-info-detail .list-table .gold { width: 30%; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table .recharge { padding: 0; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table .recharge .check .left, .invite-friend-page .event-tabs .invite-info-detail .list-table .recharge .check .right { float: left; width: 50%; height: 49px; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table .recharge .check .left { border-right: 1px solid #ccc; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table .recharge .check .checked { display: none; background: url(../images/invite_game/check_ico.png) no-repeat; width: 14px; height: 12px; margin-top: 20px; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table .recharge .check .checked.done { display: inline-block; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table .name { padding-left: 30px; text-align: left; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table .head-title > div { height: 73px; line-height: 73px; padding: 0 !important; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table .head-title > div p { line-height: 36px; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table .head-title > div p span { float: left; width: 50%; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table .head-title > div p.top { border-bottom: 1px solid #ccc; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table .head-title > div p.bottom .t1 { border-right: 1px solid #ccc; }
+.invite-friend-page .event-tabs .invite-info-detail .list-table .head-title .name, .invite-friend-page .event-tabs .invite-info-detail .list-table .head-title .gold { text-align: center; }
+.invite-friend-page .event-tabs .invite-info-detail .notify-box { line-height: 22px; margin-top: 60px; text-align: left; }
+.invite-friend-page .event-tabs .invite-info-detail .notify-box .ntitle { position: relative; padding-left: 40px; margin-bottom: 8px; font-size: 15px; text-decoration: underline; }
+.invite-friend-page .event-tabs .invite-info-detail .notify-box .ntitle:before { content: ""; position: absolute; top: -4px; left: 0; background: url(../images/invite_game/notify_ico.png) no-repeat; float: left; width: 37px; height: 26px; }
+.invite-friend-page .event-tabs .invite-info-detail .notify-box p { margin: 0 0 5px 15px; }
+.invite-friend-page .event-tabs .invite-info-detail .notify-box strong { font-weight: bold; }
+.invite-friend-page .event-tabs .invite-info-detail .notify-box ul { list-style: circle; }
+.invite-friend-page .event-tabs .invite-info-detail .notify-box ul li { margin-left: 40px; }
+.invite-friend-page .logo-list { margin: 0 0 10px; text-align: center; }
+.invite-friend-page .logo-list ul { display: inline-block; }
+.invite-friend-page .logo-list ul li { float: left; margin: 0 15px; }
+.invite-friend-page .logo-list ul li img { height: 69px; }
+
+.award-list-pop { padding: 0 10px; }
+.award-list-pop .list { width: 100%; margin: 0 auto; padding-bottom: 10px; }
+.award-list-pop .list .stt { width: 58px; }
+.award-list-pop .list .time { width: 40%; }
+.award-list-pop .list li > div { line-height: 18px; padding: 10px; }
+.award-list-pop .list li > div.award { max-width: 236px; word-wrap: break-word; }
+.award-list-pop .seemore { display: block; height: 40px; line-height: 40px; margin: 0 -25px -10px; color: #888; text-align: center; font-weight: normal; font-size: 12px; text-transform: uppercase; border-top: 1px solid #eaeaea; }
+.award-list-pop .seemore:hover { background: #eaeaea; }
+
+.award-result-pop { padding: 20px 0 25px; text-align: center; }
+.award-result-pop .txt1, .award-result-pop .txt2, .award-result-pop .txt3 { text-transform: uppercase; font-weight: bold; }
+.award-result-pop .txt1 { margin-bottom: 15px; font-size: 15px !important; }
+.award-result-pop .txt2 { line-height: 26px; color: #f4811f; font-size: 25px; word-wrap: break-word; }
+.award-result-pop .txt3 { margin-bottom: 17px; color: #888; font-size: 20px; }
+.award-result-pop .img { margin: 20px 0; }
+.award-result-pop .award-his-btn a { display: inline-block; background: #0bc377; height: 38px; line-height: 38px; padding: 0 15px; color: #fff; text-transform: uppercase; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+.award-result-pop .exchange-box { text-align: center; }
+.award-result-pop .exchange-box h2 { margin-bottom: 7px; font-size: 15px; }
+.award-result-pop .exchange-box .txt01 { margin-bottom: 7px; font-size: 15px; }
+.award-result-pop .exchange-box .txt01 strong { color: #f4811f; font-size: 18px; font-weight: bold; }
+.award-result-pop .exchange-box .txt02 { margin-bottom: 15px; font-size: 12px; }
+.award-result-pop .exchange-box .txt02 strong { font-weight: bold; }
+.award-result-pop .exchange-box .frm { display: inline-block; }
+.award-result-pop .exchange-box .frm .ctxt { float: left; }
+.award-result-pop .exchange-box .frm .ctxt input { width: 62px; height: 32px; line-height: 20px; padding: 7px 2px 3px; font-size: 20px; text-align: center; border: 1px solid #e5e5e5; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+.award-result-pop .exchange-box .frm .cbtn { float: left; }
+.award-result-pop .exchange-box .frm .cbtn input { background: #0bc377; width: 66px; height: 32px; line-height: 32px; margin-left: 10px; color: #fff; font-weight: bold; text-transform: uppercase; text-align: center; border: 0; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+
+/*# sourceMappingURL=invite_friend.css.map */
